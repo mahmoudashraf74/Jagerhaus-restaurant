@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Jagerhaus-restaurant/static/css/main.7c0a3cc2.chunk.css",
+    "main.js": "/Jagerhaus-restaurant/static/js/main.b169712d.chunk.js",
+    "main.js.map": "/Jagerhaus-restaurant/static/js/main.b169712d.chunk.js.map",
+    "runtime-main.js": "/Jagerhaus-restaurant/static/js/runtime-main.af225bc4.js",
+    "runtime-main.js.map": "/Jagerhaus-restaurant/static/js/runtime-main.af225bc4.js.map",
+    "static/css/2.c53e8639.chunk.css": "/Jagerhaus-restaurant/static/css/2.c53e8639.chunk.css",
+    "static/js/2.01ff2ba7.chunk.js": "/Jagerhaus-restaurant/static/js/2.01ff2ba7.chunk.js",
+    "static/js/2.01ff2ba7.chunk.js.map": "/Jagerhaus-restaurant/static/js/2.01ff2ba7.chunk.js.map",
+    "index.html": "/Jagerhaus-restaurant/index.html",
+    "static/css/2.c53e8639.chunk.css.map": "/Jagerhaus-restaurant/static/css/2.c53e8639.chunk.css.map",
+    "static/css/main.7c0a3cc2.chunk.css.map": "/Jagerhaus-restaurant/static/css/main.7c0a3cc2.chunk.css.map",
+    "static/js/2.01ff2ba7.chunk.js.LICENSE.txt": "/Jagerhaus-restaurant/static/js/2.01ff2ba7.chunk.js.LICENSE.txt",
+    "static/media/Jägerhaus.57cef815.png": "/Jagerhaus-restaurant/static/media/Jägerhaus.57cef815.png",
+    "static/media/Jägerhaus.cd4b566e.jpg": "/Jagerhaus-restaurant/static/media/Jägerhaus.cd4b566e.jpg",
+    "static/media/fastfood1.c7fa7566.jpg": "/Jagerhaus-restaurant/static/media/fastfood1.c7fa7566.jpg",
+    "static/media/DarkMode.css": "/Jagerhaus-restaurant/static/media/moon.08c8560a.png",
+    "static/media/pizza-3.7cf21dcc.png": "/Jagerhaus-restaurant/static/media/pizza-3.7cf21dcc.png",
+    "static/media/Footer.css": "/Jagerhaus-restaurant/static/media/yellow.7e5f86e7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.af225bc4.js",
+    "static/css/2.c53e8639.chunk.css",
+    "static/js/2.01ff2ba7.chunk.js",
+    "static/css/main.7c0a3cc2.chunk.css",
+    "static/js/main.b169712d.chunk.js"
+  ]
+}
