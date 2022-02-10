@@ -1,0 +1,22 @@
+.heading {
+  text-align: center;
+  position: relative;
+  padding-top: 2rem;
+}
+
+.heading h2 {
+  font-weight: 400;
+  font-size: 40px;
+  position: relative;
+  padding: 10px;
+  text-transform: uppercase;
+}
+
+.heading::after {
+  content: "";
+  width: 150px;
+  height: 3px;
+  display: inline-block;
+  background: var(--second-color);
+  margin: 4px 10px;
+}

@@ -1,0 +1,95 @@
+.Footer {
+  background-image: url(../../../Assist/images/yellow.jpg);
+  background-size: cover;
+}
+
+/*Logo*/
+.Info {
+  padding: 1rem;
+}
+.Info .logo {
+  display: inline-block;
+  max-width: 10rem;
+}
+.Info h4 {
+  color: white;
+  font-family: "Times New Roman", Times, serif;
+}
+.social-links {
+  font-size: 35px;
+}
+.social-links a {
+  color: white;
+  padding: 1rem;
+}
+.social-links a:hover {
+  color: var(--main-color);
+}
+/*Link*/
+.footer-route {
+  margin-top: 2rem;
+  padding: 2rem;
+}
+
+.footer-route h2 {
+  font-size: 30px;
+  line-height: 2;
+}
+.footer-route li {
+  list-style: none;
+}
+.footer-route a {
+  cursor: pointer;
+  display: inline-block;
+  padding: 10px;
+  text-decoration: none;
+  color: #fff;
+  line-height: 2;
+  text-align: center;
+  margin-left: -25px;
+  font-size: 20px;
+}
+
+.footer-route a:hover {
+  color: var(--main-color);
+}
+.arrow {
+  color: var(--main-color);
+}
+
+/*LOcation*/
+.Location {
+  padding: 2rem;
+  margin-top: 1rem;
+}
+.Location h2 {
+  font-size: 30px;
+}
+
+/*Fourth Coloumn*/
+.message {
+  padding: 2rem;
+}
+.message h2 {
+  padding-bottom: 20px;
+  font-size: 30px;
+}
+.message .submit-btn {
+  font-family: "Open Sans", sans-serif;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 14px;
+  display: inline-block;
+  padding: 10px 35px 10px 35px;
+  border-radius: 10px;
+  transition: 0.5s;
+  color: #fff;
+  background: var(--main-color);
+  border: 1px solid var(--main-color);
+  text-decoration: none;
+}
+.message .submit-btn:hover {
+  color: var(--main-color);
+  border-color: var(--main-color);
+  background: white;
+}

@@ -1,0 +1,43 @@
+.MenuItem {
+  max-width: 70rem;
+
+  margin: 2rem auto;
+  animation: meals-appear 1s ease-out forwards;
+}
+
+.MenuItem ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+/*      shuffle*/
+
+.btn-filter {
+  text-align: center;
+  padding: var(--section-padding);
+  margin: 10px;
+  line-height: 4;
+}
+.btn-filter .active {
+  background-color: var(--main-color);
+  font-size: 20px;
+  color: white;
+}
+.btn-filter Button {
+  text-transform: uppercase;
+  margin-left: 15px;
+  font-weight: bold;
+  font-size: 20px;
+  border: 2px solid var(--main-color);
+  color: black;
+}
+
+.btn-filter Button:hover {
+  background-color: var(--main-color);
+  color: white;
+}
+/*flex grow menu items*/
+.menu-contianer {
+  display: flex;
+  flex-wrap: wrap;
+}

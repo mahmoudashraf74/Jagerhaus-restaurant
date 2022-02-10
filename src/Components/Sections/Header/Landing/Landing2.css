@@ -1,0 +1,61 @@
+.title-area {
+  margin-top: 100px;
+  text-transform: uppercase;
+}
+.title-area h3 {
+  color: var(--main-color);
+
+  font-family: "Caveat", cursive;
+  text-transform: uppercase;
+}
+.title-area h2 {
+  color: var(--second-color);
+  font-size: 3.5rem;
+  font-weight: 900;
+}
+.title-area span {
+  color: var(--main-color);
+}
+.title-area h5 {
+  color: var(--second-color);
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin-left: 15px;
+}
+.title-area .btn {
+  background: var(--main-color);
+  padding: 12px 30px;
+  color: #ffffff;
+  font-size: 1.125rem;
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  text-transform: capitalize;
+  display: inline-block;
+  border: 1px solid transparent;
+  border-radius: 7px;
+  -webkit-transition: 0.3s;
+  -o-transition: 0.3s;
+  transition: 0.3s;
+}
+.btn:hover {
+  background-color: white;
+  color: var(--main-color);
+  border-color: var(--main-color);
+}
+
+.sec-img {
+  width: 100%;
+}
+
+@media (max-width: 768px) {
+  .title-area {
+    margin: 50px 0;
+  }
+  .title-area h2 {
+    font-size: 30px;
+    line-height: 1.5;
+  }
+  .title-area .btn {
+    padding: 15px 10px;
+  }
+}

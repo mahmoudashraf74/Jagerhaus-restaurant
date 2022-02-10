@@ -1,0 +1,35 @@
+.menu-item {
+  padding: 10px;
+  max-width: 250px;
+  max-height: 500px;
+  box-shadow: 0 0 28px 4px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease;
+  cursor: pointer;
+  border-radius: 2rem;
+  margin: 3px;
+}
+.menu-item:hover {
+  transform: scale(1.1);
+}
+.card-title {
+  margin: 0 0 0.25rem 0;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.description {
+  font-style: italic;
+}
+
+.price {
+  font-weight: bold;
+  color: var(--main-color);
+  font-size: 1.25rem;
+}
+.item-pic {
+  width: 100%;
+  max-height: 150px;
+}
+.card-body {
+  max-height: 300px;
+}

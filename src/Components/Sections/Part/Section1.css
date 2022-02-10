@@ -1,0 +1,28 @@
+.sec-img {
+  width: 100%;
+  opacity: 80%;
+}
+.sec-text {
+  padding: 10px;
+}
+.sec-text p {
+  font-style: italic;
+  margin: 20px 0;
+  font-size: 20px;
+
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+@media (max-width: 768px) {
+  .title-area {
+    margin: 50px 0;
+  }
+  .title-area h2 {
+    font-size: 30px;
+    line-height: 1.5;
+  }
+  .title-area .btn {
+    padding: 15px 10px;
+  }
+}

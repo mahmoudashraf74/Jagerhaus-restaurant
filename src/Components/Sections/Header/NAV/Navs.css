@@ -1,0 +1,28 @@
+.navbar-brand .logo {
+  display: inline-block;
+  width: 6rem;
+  border-radius: 3rem;
+}
+.navbar-light .navbar-brand {
+  font-weight: bold;
+  font-size: 36px;
+}
+.logoSpan {
+  color: var(--main-color);
+}
+/*-------------------------------------------------------------------*/
+.links {
+  margin-left: 25%;
+}
+.navbar-light .navbar-nav .nav-link {
+  font-size: 20px;
+  text-transform: uppercase;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  margin-right: 1rem;
+  color: black;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+  background-color: var(--main-color);
+}
+/* ----------------------------------------------------- */

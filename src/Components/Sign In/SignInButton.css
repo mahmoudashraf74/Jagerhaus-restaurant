@@ -1,0 +1,12 @@
+.Login {
+  background-color: var(--main-color);
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding: 9px 10px;
+  border-radius: 1rem;
+}
+.Login:hover {
+  color: var(--main-color);
+  border: 1px solid var(--main-color);
+  background-color: white;
+}
