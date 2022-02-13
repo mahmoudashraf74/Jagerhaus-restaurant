@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Jagerhaus-restaurant/static/css/main.2f5e9320.chunk.css",
-    "main.js": "/Jagerhaus-restaurant/static/js/main.cc1eda8b.chunk.js",
-    "main.js.map": "/Jagerhaus-restaurant/static/js/main.cc1eda8b.chunk.js.map",
+    "main.css": "/Jagerhaus-restaurant/static/css/main.a8a1ceee.chunk.css",
+    "main.js": "/Jagerhaus-restaurant/static/js/main.115aa2fb.chunk.js",
+    "main.js.map": "/Jagerhaus-restaurant/static/js/main.115aa2fb.chunk.js.map",
     "runtime-main.js": "/Jagerhaus-restaurant/static/js/runtime-main.af225bc4.js",
     "runtime-main.js.map": "/Jagerhaus-restaurant/static/js/runtime-main.af225bc4.js.map",
     "static/css/2.c53e8639.chunk.css": "/Jagerhaus-restaurant/static/css/2.c53e8639.chunk.css",
-    "static/js/2.01ff2ba7.chunk.js": "/Jagerhaus-restaurant/static/js/2.01ff2ba7.chunk.js",
-    "static/js/2.01ff2ba7.chunk.js.map": "/Jagerhaus-restaurant/static/js/2.01ff2ba7.chunk.js.map",
+    "static/js/2.cfd1bcae.chunk.js": "/Jagerhaus-restaurant/static/js/2.cfd1bcae.chunk.js",
+    "static/js/2.cfd1bcae.chunk.js.map": "/Jagerhaus-restaurant/static/js/2.cfd1bcae.chunk.js.map",
     "index.html": "/Jagerhaus-restaurant/index.html",
     "static/css/2.c53e8639.chunk.css.map": "/Jagerhaus-restaurant/static/css/2.c53e8639.chunk.css.map",
-    "static/css/main.2f5e9320.chunk.css.map": "/Jagerhaus-restaurant/static/css/main.2f5e9320.chunk.css.map",
-    "static/js/2.01ff2ba7.chunk.js.LICENSE.txt": "/Jagerhaus-restaurant/static/js/2.01ff2ba7.chunk.js.LICENSE.txt",
+    "static/css/main.a8a1ceee.chunk.css.map": "/Jagerhaus-restaurant/static/css/main.a8a1ceee.chunk.css.map",
+    "static/js/2.cfd1bcae.chunk.js.LICENSE.txt": "/Jagerhaus-restaurant/static/js/2.cfd1bcae.chunk.js.LICENSE.txt",
     "static/media/Jägerhaus.57cef815.png": "/Jagerhaus-restaurant/static/media/Jägerhaus.57cef815.png",
     "static/media/Jägerhaus.cd4b566e.jpg": "/Jagerhaus-restaurant/static/media/Jägerhaus.cd4b566e.jpg",
     "static/media/fastfood1.c7fa7566.jpg": "/Jagerhaus-restaurant/static/media/fastfood1.c7fa7566.jpg",
@@ -23,8 +23,8 @@
   "entrypoints": [
     "static/js/runtime-main.af225bc4.js",
     "static/css/2.c53e8639.chunk.css",
-    "static/js/2.01ff2ba7.chunk.js",
-    "static/css/main.2f5e9320.chunk.css",
-    "static/js/main.cc1eda8b.chunk.js"
+    "static/js/2.cfd1bcae.chunk.js",
+    "static/css/main.a8a1ceee.chunk.css",
+    "static/js/main.115aa2fb.chunk.js"
   ]
 }
